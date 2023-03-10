@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("哈哈哈");
         System.out.println("hot-fix啦啦啦");
         System.out.println("dev啦啦啦");
+        System.out.println("test pull");
     }
 }
